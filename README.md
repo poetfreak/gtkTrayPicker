@@ -172,7 +172,7 @@ The source includes a note about a future upgrade to the GLib-flavored Ayatana v
 ## Repository Layout
 
 - [`colorpicker.bas`](./colorpicker.bas): main application source
-- [`libappindicator/app-indicator.bi`](./libappindicator/app-indicator.bi): FreeBASIC binding used by the project
+- [`app-indicator.bi`](./app-indicator.bi): FreeBASIC binding for the tray
 - [`build.sh`](./build.sh): quick local build script
 - [`makedeb.sh`](./makedeb.sh): Debian packaging script
 - [`workflow.md`](./workflow.md): project notes and development history
